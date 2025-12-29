@@ -2,7 +2,7 @@
 I recently built a website for ΑΣ KINEZOS TEAM, a martial arts club, as part of my web development journey.
 The goal was to create a platform that highlights the club’s spirit, training programs, and community — while keeping the design clean, responsive, and easy to navigate.
 The project is now online and viewable, though still a work in progress. I’ll be improving the design, adding new features, and updating the text and images to better reflect the club.
-💻 Check it out here: https://lnkd.in/d4wdaHDJ
+💻 Check it out here: [https://lnkd.in/d4wdaHDJ](https://darwinhost.com/demos/practice_base/kinezos-home-page/)
 
 # 🛠 Tech Stack
 - WordPress <br>
