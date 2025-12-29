@@ -11,6 +11,5 @@ The project is now online and viewable, though still a work in progress. I’ll 
 - WooCommerce <br>
 
 # 📹 Preview
-<br>
-<br>
+
 https://github.com/user-attachments/assets/15eb2be5-1a76-494d-aa6a-fcf027d09317
