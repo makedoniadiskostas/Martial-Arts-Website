@@ -12,4 +12,4 @@ The project is now online and viewable, though still a work in progress. I’ll 
 
 # 📹 Preview
 
-https://github.com/user-attachments/assets/15eb2be5-1a76-494d-aa6a-fcf027d09317
+https://github.com/user-attachments/assets/28b6f1f6-6aef-45dd-bbbc-a557c618cbdb
