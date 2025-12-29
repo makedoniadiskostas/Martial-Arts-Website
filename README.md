@@ -13,4 +13,4 @@ The project is now online and viewable, though still a work in progress. I’ll 
 # 📹 Preview
 <br>
 <br>
-https://github.com/user-attachments/assets/e595da2d-3133-42b2-af35-926c928e7d0f
+https://github.com/user-attachments/assets/15eb2be5-1a76-494d-aa6a-fcf027d09317
